@@ -1,0 +1,106 @@
+header{
+    margin-bottom: 10%;
+}
+.nav-item h4{
+    color: darkblue;
+}
+.nav-links{
+    color: darkslateblue;
+    font-size: 18px;
+}
+.nav-links:hover{
+    text-decoration: underline;
+    color: darkblue;
+}
+.img-text{
+    margin-top: 10%;
+}
+.row{
+    color: darkslateblue;
+    justify-content: center;
+    align-items: center;
+}
+.row h3{
+    color: darkslateblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.row h4{
+    color: darkslateblue;
+}
+.row h1{
+    color: darkblue;
+}
+.ab-text{
+    color: darkslateblue;
+}
+.row button{
+    background-color: darkslateblue;
+    color: white;
+    border: none;
+    height: 40px;
+    width: 120px;
+    font-size: 16px;
+}
+.row button:hover{
+    background-color: white;
+    border: darkslateblue 1px solid;
+    color: darkslateblue;
+}
+.second{
+    margin-top: 5%;
+}
+
+.edu h2{
+    color: darkblue;
+}
+.skill{
+    font-size: 40px;
+    color: darkblue;
+}
+.skill-text{
+    color: darkblue;
+}
+.head{
+    text-decoration: wavy;
+}
+.skill-btn{
+    background-color: darkslateblue;
+    color: white;
+    border: none;
+}
+.skill-btn:hover{
+    background-color: white;
+    border: darkslateblue 1px solid;
+    color: darkslateblue;
+}
+
+
+.pro1{
+    background-size: cover;
+}
+.pro2{
+    background-size: cover;
+    background-position: center;
+}
+.pro3{
+    background-size: cover;
+    background-position: center;
+}
+.pro-text h2{
+    text-align: center;
+    margin-top: 10px;
+}
+.pro-text p{
+    color: black;
+    font-size: 17px;
+    margin-bottom: 10%;
+}
+.pro-text h2:hover{
+    text-decoration: underline;
+    color: darkblue;
+}
+
+
+.contact-div .contact-text{
+    color: darkblue;
+}
